@@ -18,3 +18,14 @@ virtualenv .env -p python3
 
 ### Intall the packages
 pip install -r requirements.txt
+
+
+## How to use jupyter notebook
+deactivate 
+
+pip3 install ipykernel
+
+python3 -m ipykernel install --name .env --user  --display-name "env"
+
+jupyter notebook
+
