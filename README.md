@@ -1,4 +1,4 @@
-# pandas-mysql-practices
+# Pandas and MySQL with Python
 Pandas and MySQL with Python
 
 ## How to install the requirements to use the codes
