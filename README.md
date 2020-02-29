@@ -25,7 +25,7 @@ deactivate
 
 pip3 install ipykernel
 
-python3 -m ipykernel install --name .env --user  --display-name "env"
+python3 -m ipykernel install --name .env --user  --display-name "env_data"
 
 jupyter notebook
 
